@@ -6,7 +6,7 @@ import Contact from '../Contact/Contact.js';
 import Products from '../Products/Products.js'
 import PRODUCTS from './PRODUCTS.json'
 import { BrowserRouter, Route, Routes} from 'react-router-dom';
-import {  } from "react-router-dom";
+
 
 /*
 function App() {
