@@ -7,7 +7,7 @@ const Layout = () => {
   return (
     <>
       <Header />
-      <Outlet /> {/* اینجا محتوای هر روت بچه اینجکت می‌شود */}
+      <Outlet /> {/* This is where the content of each child routes are injected. */}
       <Footer />
     </>
   );
